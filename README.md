@@ -10,10 +10,10 @@
 
 # hey there, i'm ｆｉｎｎｃｙｒ
 
-student of th cologne,
+student of th cologne
 
-kinda decent in all of this
+[![finncyr's github stats](https://github-readme-stats.vercel.app/api?username=finncyr)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://i.stack.imgur.com/zXrgJ.png" style="width: 200 px;" />
-<img src="https://i.stack.imgur.com/pBxvk.png" style="width: 200 px;" />
-<img src="https://i.stack.imgur.com/368Yn.png" style="width: 200 px;" />
+[StackOverflow Story](https://stackoverflow.com/story/finncyr)
+
+
