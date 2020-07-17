@@ -10,7 +10,8 @@
 
 # hey there, i'm ｆｉｎｎｃｙｒ
 
-student of th cologne
+student of th cologne,
+
 kinda decent in all of this
 
 <img src="https://i.stack.imgur.com/zXrgJ.png" style="width: 200 px;" />
