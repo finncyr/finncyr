@@ -1,16 +1,18 @@
-### Hi there 👋
+```
+                                                               
+        ,--.                       ,--.    ,--.           ,--. 
+ ,---.,-'  '-. ,--,--.,--. ,--.    |  |,-. `--',--.   ,--.`--' 
+(  .-''-.  .-'' ,-.  | \  '  /     |     / ,--.|  |.'.|  |,--. 
+.-'  `) |  |  \ '-'  |  \   '      |  \  \ |  ||   .'.   ||  | 
+`----'  `--'   `--`--'.-'  /       `--'`--'`--''--'   '--'`--' 
+                      `---'                                   
+```
 
-<!--
-**finncyr/finncyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey there, i'm ｆｉｎｎｃｙｒ
 
-Here are some ideas to get you started:
+student of th cologne
+kinda decent in all of this
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://i.stack.imgur.com/zXrgJ.png" style="width: 200 px;" />
+<img src="https://i.stack.imgur.com/pBxvk.png" style="width: 200 px;" />
+<img src="https://i.stack.imgur.com/368Yn.png" style="width: 200 px;" />
