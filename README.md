@@ -23,4 +23,3 @@
 [![finncyr's github stats](https://github-readme-stats.vercel.app/api?username=finncyr)](https://github.com/anuraghazra/github-readme-stats)
 
 [StackOverflow Story](https://stackoverflow.com/story/finncyr)
-[![Finn's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/finncyr)
