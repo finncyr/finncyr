@@ -6,7 +6,7 @@
 
 ----
 
-- 🎓 student of th cologne 
+- 🎓 student of TH Cologne 
 - 💻 founder of [eSports Cologne](https://esport.cologne)
 - 🎷 coding with jazzy music
 
