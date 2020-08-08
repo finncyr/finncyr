@@ -17,12 +17,10 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![node.js](https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
 ![React](https://img.shields.io/badge/-React-informational?logo=react&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
-
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Jira](https://img.shields.io/badge/-Jira-darkblue?style=flat-square&logo=jira)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
