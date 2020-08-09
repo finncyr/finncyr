@@ -10,6 +10,7 @@
 - 🎓 student of TH Cologne 
 - 💻 founder of [eSports Cologne](https://esport.cologne)
 - 🎷 coding with jazzy music
+- ⛰️ climbing boulder walls in my freetime
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
