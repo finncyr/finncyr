@@ -8,7 +8,7 @@
 ----
 
 - 🎓 student of TH Cologne 
-- 💻 founder of [eSports Cologne](https://esport.cologne)
+- 💻 deputy head of [eSports Cologne](https://esport.cologne)
 - 🎷 coding with jazzy music
 - ⛰️ climbing boulder walls in my freetime
 
