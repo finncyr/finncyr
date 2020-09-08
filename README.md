@@ -7,7 +7,7 @@
 
 ----
 
-- 🎓 student of TH Cologne 
+- 🎓 student of TH Cologne (Computer Engineering)
 - 💻 deputy head of [eSports Cologne](https://esport.cologne)
 - 🎷 coding with jazzy music
 - ⛰️ climbing boulder walls in my freetime
