@@ -25,6 +25,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Jira](https://img.shields.io/badge/-Jira-darkblue?style=flat-square&logo=jira)
+![WordPress](https://img.shields.io/badge/-Wordpress-207196?logo=wordpress&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-323232?logo=linux&style=flat-square)
