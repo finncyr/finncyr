@@ -30,4 +30,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-323232?logo=linux&style=flat-square)
 
-[![finncyr's github stats](https://github-readme-stats.vercel.app/api?username=finncyr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![finncyr's github stats](https://github-readme-stats.vercel.app/api?username=finncyr&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
