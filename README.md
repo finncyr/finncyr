@@ -32,5 +32,6 @@
 
 Currently learning: 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
+![Spring](https://img.shields.io/badge/-Spring-white?style=flat-square&logo=Spring)
 
 [![finncyr's github stats](https://github-readme-stats.vercel.app/api?username=finncyr&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
