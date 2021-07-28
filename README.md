@@ -16,6 +16,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-white?style=flat-square&logo=Spring)
 ![node.js](https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![React](https://img.shields.io/badge/-React-informational?logo=react&style=flat-square)
@@ -32,6 +33,5 @@
 
 Currently learning: 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
-![Spring](https://img.shields.io/badge/-Spring-white?style=flat-square&logo=Spring)
 
 [![finncyr's github stats](https://github-readme-stats.vercel.app/api?username=finncyr&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
