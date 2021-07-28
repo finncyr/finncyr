@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm finncyr</h3>
 <p align="center">
-  <a href="https://finncyr.wtf">Website</a> •
+  <a href="https://finncyr.dev">Website</a> •
   <a href="https://twitter.com/undercoverfinn">Twitter</a> • 
   <a href="https://stackoverflow.com/story/finncyr">StackOverflow</a>
 </p>
