@@ -1,16 +1,13 @@
 <h3 align="center">👋 Hi there! I'm finncyr</h3>
 <p align="center">
-  <a href="https://finncyr.dev">Website</a> •
+  <a href="https://cyriax.one">Website</a> •
   <a href="https://twitter.com/undercoverfinn">Twitter</a> • 
   <a href="https://stackoverflow.com/story/finncyr">StackOverflow</a>
 </p>
 
 ----
 
-- 🎓 student of TH Cologne (Computer Engineering)
-- 💻 deputy head of [eSports Cologne](https://esport.cologne)
-- 🎷 coding with jazzy music
-- ⛰️ climbing boulder walls in my freetime
+Studied this but now working in Marketing lol.
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
