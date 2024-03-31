@@ -1,13 +1,12 @@
 <h3 align="center">👋 Hi there! I'm finncyr</h3>
 <p align="center">
   <a href="https://cyriax.one">Website</a> •
-  <a href="https://twitter.com/undercoverfinn">Twitter</a> • 
-  <a href="https://stackoverflow.com/story/finncyr">StackOverflow</a>
+  <a href="https://twitter.com/undercoverfinn">Twitter</a>
 </p>
 
 ----
 
-Studied this but now working in Marketing lol.
+Studied this, loving this, but now working in Marketing lol. If you want some information on past projects or have questions in general - DM me anywhere.
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -27,6 +26,3 @@ Studied this but now working in Marketing lol.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-323232?logo=linux&style=flat-square)
-
-
-[![finncyr's github stats](https://github-readme-stats.vercel.app/api?username=finncyr&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
